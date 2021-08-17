@@ -1,0 +1,1 @@
+INSERT INTO `mytable` VALUES(0,'Unicode test with "ã", "ç", and "ü" characters',1);
